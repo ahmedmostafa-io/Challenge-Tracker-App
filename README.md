@@ -110,8 +110,8 @@ Structuring real-world React projects with Vite.
 
 Ahmed Mostafa Ahmed Abdel-Aal
 
-![GitHub](https://github.com/ahmedmostafa-io)
+[GitHub](https://github.com/ahmedmostafa-io)
 
-![LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-582378373/)
+[LinkedIn](https://www.linkedin.com/in/ahmed-mostafa-582378373/)
 
 ---
